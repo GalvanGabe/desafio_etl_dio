@@ -1,0 +1,57 @@
+[
+    {
+        "carro": "Gol",
+        "marca": "Volkswagen",
+        "ano": 2020,
+        "info": [
+            {
+                "km": 37357,
+                "status": "à venda"
+            }
+        ]
+    },
+    {
+        "carro": "Palio",
+        "marca": "Fiat",
+        "ano": 2021,
+        "info": [
+            {
+                "km": 43030,
+                "status": "à venda"
+            }
+        ]
+    },
+    {
+        "carro": "Onix",
+        "marca": "Chevrolet",
+        "ano": 2022,
+        "info": [
+            {
+                "km": 7863,
+                "status": "à venda"
+            }
+        ]
+    },
+    {
+        "carro": "Sandero",
+        "marca": "Renault",
+        "ano": 2023,
+        "info": [
+            {
+                "km": 39874,
+                "status": "à venda"
+            }
+        ]
+    },
+    {
+        "carro": "Ka",
+        "marca": "Ford",
+        "ano": 2024,
+        "info": [
+            {
+                "km": 3281,
+                "status": "à venda"
+            }
+        ]
+    }
+]
